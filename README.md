@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 | Название проекта                                      | Навыки и инструменты        | Задача проекта              |
 |:-----------------------------------------------------:| :------------------------:|:---------------------------:|
-|[Защита данных клиентов страховой компании](https://github.com/sashitina/personal-data-protection)| Python, Pandas, Numpy, Scikit-learn | Разработать модель анонимизации персональных данных |
-|[Предсказание отмены бронирования](https://github.com/sashitina/churn-prediction) | Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn | Разработать систему предсказания отказа клиентов отеля от брони |
-|[Предсказание стоимости жилья](https://github.com/sashitina/predicting-house-prices-pyspark) | Python, Pandas, PySpark | Определить медианную стоимость квартиры |
+|[Защита данных клиентов страховой компании](https://github.com/sashitina/personal-data-protection)| Pandas, Numpy, Scikit-learn | Разработать модель анонимизации персональных данных |
+|[Предсказание отмены бронирования](https://github.com/sashitina/churn-prediction) | Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn | Разработать систему предсказания отказа клиентов отеля от брони |
+|[Предсказание стоимости жилья](https://github.com/sashitina/predicting-house-prices-pyspark) | Pandas, PySpark | Определить медианную стоимость квартиры |
