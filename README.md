@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 |[Защита данных клиентов страховой компании](https://github.com/sashitina/personal-data-protection)| Pandas, Numpy, Scikit-learn | Разработать модель анонимизации персональных данных |
 |[Предсказание отмены бронирования](https://github.com/sashitina/churn-prediction)| Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn | Разработать систему предсказания отказа клиентов отеля от брони |
 |[Предсказание стоимости жилья](https://github.com/sashitina/predicting-house-prices-pyspark)| Pandas, PySpark | Определить медианную стоимость квартиры |
-|[Предсказание температуры звезды](https://github.com/sashitina/star-temperature-prediction)| Pandas, PyTorch | Определить температуру на поверхности звезды |
+|[Предсказание температуры звезды (в работе)](https://github.com/sashitina/star-temperature-prediction)| Pandas, PyTorch | Определить температуру на поверхности звезды |
