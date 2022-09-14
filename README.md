@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# Резюме
+ - [Резюме](https://github.com/sashitina/sashitina/blob/main/Aleksandra%20Shitina%20-%20DS%20-%20CV%20-%20EN.pdf)
+ 
 # Проекты
 ## Анализ данных
 
